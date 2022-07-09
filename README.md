@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jendoc
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently webdev through Practicum by Yandex
 - 📫 How to reach me jaharrisnv@gmail.com
 
 <!---
