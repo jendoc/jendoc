@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenny Doctor</h1>
 <h3 align="center">A teacher who has become the student; learning web dev for a career change.</h3>
 
-- 🌱 I’m currently learning **web development through Practicum by Yandex**
+- 🌱 I’m currently learning **software engineering through Practicum by Yandex**
 
 - 📫 How to reach me **jaharrisnv@gmail.com**
 
