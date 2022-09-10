@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenny Doctor</h1>
 <h3 align="center">A teacher who has become the student; learning web dev for a career change.</h3>
 
-- 🔭 I’m currently working on [New York City Tree Planting landing page](https://github.com/Who-Code-the-World-Girls/codebridge_nyctrees)
+- 🔭 I’m currently working on [a data-driven landing page aboout NYC street tree planting](https://github.com/Who-Code-the-World-Girls/codebridge_nyctrees)
 
 - 🌱 I’m currently learning **web development through Practicum USA**
 
