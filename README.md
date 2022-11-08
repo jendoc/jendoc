@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jenny Doctor</h1>
 <h3 align="center">A music teacher turned front-end developer</h3>
 
-- 🔭 I’m currently working on learning React.js
-
 - 🌱 I’m currently learning **software engineering through Practicum USA**
 
 - 📫 How to reach me **jendocdev@gmail.com**
