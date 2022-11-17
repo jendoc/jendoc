@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jenny Doctor</h1>
-<h3 align="center">A music teacher turned frontend dev</h3>
-
-- 🌱 I’m currently learning **react**
+<h3 align="center">A music teacher turned front end dev</h3>
 
 - 📫 How to reach me **jendocdev@gmail.com**
 
