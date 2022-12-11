@@ -12,7 +12,7 @@
 
 
 ### Thanks for being here.  
-I'm a front-end developer and career transitioner. During quarantine, millions of teachers like me had to move their entire classrooms online overnight. Teaching music over Zoom taught me a lot... including a newfound passion for creating a user-friendly and engaging experience through software. As an educator, I am passionate about accessibility and security; and as a musician, I love finding patterns and creating concise, clean code. <br>
+I'm a front-end developer and career transitioner. During quarantine, millions of teachers like me had to move their entire classrooms online overnight. Teaching music over Zoom taught me a lot... including a newfound passion for creating a user-friendly and engaging experience through software. As an educator, I am passionate about accessibility and security; and as a musician, I love finding patterns and creating concise, clean code.
 Follow my software engineering journey, and check out my projects below! 🔽  
   
 
