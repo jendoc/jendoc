@@ -28,7 +28,7 @@ Follow my software engineering journey, and check out my projects below! 🔽
 - 🔭 I’m currently working on [What to Wear](https://github.com/jendoc/se_project_react)  
   
 
-- 🌱 I’m currently learning React.js  
+- 🌱 I’m currently learning Node.js  
 
 
 </td><td valign="top" width="50%">
