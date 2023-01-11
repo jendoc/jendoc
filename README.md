@@ -1,5 +1,4 @@
 # 💫 About Me:
-[![LinkedIn]<br>(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jendoc) 
 🔭 I’m currently working on WTWR<br>🌱 I’m currently learning Node.js & Express<br>💬 Ask me about career transition
 
 # 💻 Tech Stack:
