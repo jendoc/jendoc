@@ -1,8 +1,6 @@
 <h1>Hey 👋, I'm Jenny</h1>
 <h3>📎Full-stack developer and former teacher</h3>
 
-- 🌱 I’m currently learning **automated testing & cloud deployment**
-
 - 👨‍💻 All of my projects are available at [jendocdev.com](jendocdev.com)
 
 - 📫 How to reach me **jendocdev@gmail.com**
