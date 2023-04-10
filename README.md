@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Jenny</h1>
+<h1>Jenny Doctor --- @jendoc</h1>
 <h3>📎Full-stack developer and former teacher</h3>
 
 - 👨‍💻 All of my projects are available at [jendocdev.com](jendocdev.com)
