@@ -1,6 +1,6 @@
 <h1>Jenny Doctor - @jendoc</h1>
 
-  <p>👋 Hello there! I'm a MERN stack developer at Booz Allen, currently working toward a CompTIA Security+ certification.</p>
+  <p>👋 Hello there! I'm a MERN stack developer at Booz Allen, currently learning PostgreSQL.</p>
   <p>As a junior dev, I would love to connect with more people in the industry. 🤝 Let's talk about career transition and women in tech!<p>
    <br/>
 
