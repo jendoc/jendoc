@@ -1,6 +1,6 @@
 <h1>Jenny Doctor - @jendoc</h1>
 
-  <p>👋 Hello there! I'm a MERN stack developer at Booz Allen.</p>
+  <p>👋 Hello there! I'm a full-stack developer at Booz Allen.</p>
   <p>As a junior dev, I would love to connect with more people in the industry. 🤝 Let's talk about career transition and women in tech!<p>
    <br/>
 
